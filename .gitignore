@@ -1,0 +1,15 @@
+# Local notes and machine-specific files
+notes/
+.DS_Store
+.vscode/
+.idea/
+
+# Generated firmware and build outputs
+build/
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.map
+*.lss
